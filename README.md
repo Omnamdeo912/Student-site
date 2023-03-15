@@ -1,3 +1,10 @@
-# Student-site
- This website showcse the student skills.
- Currently i'm working on lesson2.
+# Student Portfolio
+
+ Hey !
+ Welcome to my portfolio.
+
+---
+## Contact
+ `Telegram`
+ `Insta`
+
